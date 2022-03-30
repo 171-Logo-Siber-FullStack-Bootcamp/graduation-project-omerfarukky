@@ -14,3 +14,31 @@
 - Winston kullanılacak.
 - Ürüne tıkladığımız zaman bir kutusu ekrana gelecek ve ürünün bilgileri yer alacak.
 - Relational veritabanı için PostgreSQL kullanılacak.
+
+## Installation
+
+```
+cd api
+npm install
+npm start
+```
+
+```
+cd client
+npm install
+npm run serve
+```
+
+![](https://github.com/171-Logo-Siber-FullStack-Bootcamp/graduation-project-omerfarukky/blob/main/client/src/assets/images/ss/1.jpg)
+
+![](https://github.com/171-Logo-Siber-FullStack-Bootcamp/graduation-project-omerfarukky/blob/main/client/src/assets/images/ss/2.jpg)
+
+![](https://github.com/171-Logo-Siber-FullStack-Bootcamp/graduation-project-omerfarukky/blob/main/client/src/assets/images/ss/3.jpg)
+
+![](https://github.com/171-Logo-Siber-FullStack-Bootcamp/graduation-project-omerfarukky/blob/main/client/src/assets/images/ss/4.jpg)
+
+![](https://github.com/171-Logo-Siber-FullStack-Bootcamp/graduation-project-omerfarukky/blob/main/client/src/assets/images/ss/5.jpg)
+
+![](https://github.com/171-Logo-Siber-FullStack-Bootcamp/graduation-project-omerfarukky/blob/main/client/src/assets/images/ss/6.jpg)
+
+![](https://github.com/171-Logo-Siber-FullStack-Bootcamp/graduation-project-omerfarukky/blob/main/client/src/assets/images/ss/7.jpg)
